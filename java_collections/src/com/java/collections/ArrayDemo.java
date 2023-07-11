@@ -5,9 +5,9 @@ public class ArrayDemo
 	public static void main(String[] args)
 	{
 		int[] x;
-		int[] y = {1,2,3,4,5};
+		int[] y = {1,2,3,4,5,6};
 		
-		int[] z = new int[3];
+		int[] z = new int[7];
 		System.out.println(z[0]);
 		System.out.println(z[1]);
 		System.out.println(z[2]);
